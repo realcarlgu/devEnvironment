@@ -1,5 +1,5 @@
 When install Openthread Commisioner, we should use this source.list which is from /etc/apt
-
+refer this website to install OpenThread Commisioner.          https://openthread.io/guides/commissioner/build
 
 
 
